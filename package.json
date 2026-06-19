@@ -1,0 +1,22 @@
+{
+  "name": "scam-guard",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "bun --watch src/index.ts",
+    "start": "bun src/index.ts",
+    "test": "bun test test/spam.spec.ts",
+    "test:debug": "ALLOW_BOT_MESSAGES=1 DEBUG=1 bun test test/spam.spec.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "discord.js": "^14.26.4"
+  }
+}
