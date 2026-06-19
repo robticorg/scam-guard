@@ -39,9 +39,7 @@ ScamGuard watches your server for the same image posted across multiple channels
 
 Don't want to host it yourself? **Invite the public version** directly to your server with one click:
 
-> **[👉 Add ScamGuard to your server](https://discord.com/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=1099511628800&scope=bot)**
->
-> *(Link will be live soon — join our [Discord](https://discord.gg/3vfqhtgZM5) to get notified)*
+> **[👉 Add ScamGuard to your server](https://discord.com/oauth2/authorize?client_id=1517521977991237772&permissions=8&integration_type=0&scope=bot+applications.commands)**
 
 ---
 
