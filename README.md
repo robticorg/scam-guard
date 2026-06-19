@@ -9,7 +9,7 @@
   <a href="https://github.com/robticorg/scam-guard/network/members"><img src="https://img.shields.io/github/forks/robticorg/scam-guard?style=flat&logo=github&color=blue" alt="Forks"></a>
   <a href="https://github.com/robticorg/scam-guard/issues"><img src="https://img.shields.io/github/issues/robticorg/scam-guard?style=flat&color=red" alt="Issues"></a>
   <a href="LICENSE"><img src="https://img.shields.io/github/license/robticorg/scam-guard?style=flat&color=green" alt="License"></a>
-  <a href="https://discord.gg/3vfqhtgZM5"><img src="https://img.shields.io/discord/1304497912541216819?style=flat&logo=discord&logoColor=white&label=Discord&color=5865F2" alt="Discord"></a>
+  <a href="https://discord.gg/3vfqhtgZM5"><img src="https://img.shields.io/discord/1340750551197159447?style=flat&logo=discord&logoColor=white&label=Discord&color=5865F2" alt="Discord"></a>
   <a href="https://bun.sh"><img src="https://img.shields.io/badge/runtime-Bun-black?style=flat&logo=bun" alt="Bun"></a>
 </p>
 
