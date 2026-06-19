@@ -10,6 +10,6 @@ jobs:
     uses: robticorg/robtic-actions/.github/workflows/bun-ci.yml@main
     with:
       commit-msg: ${{ github.event.head_commit.message || github.event.pull_request.title }}
-      build-command: "bun run dev"
+      build-command: ""
     secrets:
       DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK_CI }}

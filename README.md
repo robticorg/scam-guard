@@ -1,6 +1,6 @@
 <div align="center">
 
-
+<img src="https://raw.githubusercontent.com/robticorg/assets/refs/heads/main/utils/discord/ScamGuard.png" alt="ScamGuard Logo" width="700">
 
 **Automatic cross-channel spam & scam image detection for Discord**
 
